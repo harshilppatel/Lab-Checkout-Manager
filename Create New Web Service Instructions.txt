@@ -1,0 +1,4 @@
+package -> new -> other -> Web services -> Restful Web Service from patterns -> simple root resource -> name: (orderWS) -> path: (order) -> finish.
+
+
+-name and order are what we renamed them.
